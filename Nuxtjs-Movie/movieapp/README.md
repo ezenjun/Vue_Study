@@ -1,4 +1,5 @@
 # movieapp
+## 상영 영화 정보와 영화 정보 검색 프로젝트
 
 ## Build Setup
 
@@ -16,6 +17,8 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+![image](https://user-images.githubusercontent.com/44547064/131162246-23b0460b-90a5-4055-8c42-855849baf76f.png)
+![image](https://user-images.githubusercontent.com/44547064/131162256-be819f5e-78f8-43e7-b3eb-42164ab746db.png)
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
